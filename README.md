@@ -47,7 +47,7 @@ Time Period
 - Adopt digital tools for real-time tracking and POS integration.
 # 📁 Files
 This repository includes:
-- Bright_Coffee_Presentation.pdf: Full visual report
+- Bright Coffee Presentation.pdf: Full visual report
 - README.md
 - Coffee_Shop_Dataset.xlsx
 -  Planning Project(Coffee Shop).pdf
