@@ -49,8 +49,8 @@ Time Period
 This repository includes:
 - Bright_Coffee_Presentation.pdf: Full visual report
 - README.md
-- Exel data sheet
-- Miro pdf
+- Coffee_Shop_Dataset.xlsx
+-  Planning Project(Coffee Shop).pdf
 # 🙌 Author
 Created by Sindiswa Jachin Shongwe
 For inquiries or collaboration, feel free to connect via GitHub or LinkedIn.
