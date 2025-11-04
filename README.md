@@ -1,6 +1,6 @@
 # ☕ Bright Coffee Sales Analysis – Oct 2025
 This repository presents an in-depth analysis of sales data for a coffee shop chain with three distinct locations. The project encompasses the first two fiscal quarters of 2023 (January - June), delivering actionable insights into financial performance, product trends, and location-based comparisons to drive strategic business decisions.
-Here’s a professional and engaging README.md file tailored for your GitHub repository showcasing the Bright Coffee Sales Analysis presentation:
+Here’s a professional and engaging README.md file tailored for GitHub repository showcasing the Bright Coffee Sales Analysis presentation:
 # 📊 Overview
 This analysis was designed to uncover actionable insights and support strategic decision-making for Bright Coffee’s continued growth. It includes:
 - Revenue trends by month, week, and time of day
