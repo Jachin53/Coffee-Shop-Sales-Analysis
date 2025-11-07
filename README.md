@@ -51,6 +51,7 @@ This repository includes:
 - rawdata.csv
 - Coffee_Shop_Dataset.xlsx
 -  Miro flowchart.pdf
+-  Project Gantt Chart
 -  Bright Coffee Presentation.pdf: Full visual report
 -  Script.sql
 -  README.md
