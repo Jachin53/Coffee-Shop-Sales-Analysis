@@ -47,10 +47,13 @@ Time Period
 - Adopt digital tools for real-time tracking and POS integration.
 # 📁 Files
 This repository includes:
-- Bright Coffee Presentation.pdf: Full visual report
-- README.md
+- Project description
+- rawdata.csv
 - Coffee_Shop_Dataset.xlsx
--  Planning Project(Coffee Shop).pdf
+-  Miro flowchart.pdf
+-  Bright Coffee Presentation.pdf: Full visual report
+-  Script.sql
+-  README.md
 # 🙌 Author
 Created by Sindiswa Jachin Shongwe
 For inquiries or collaboration, feel free to connect via GitHub or LinkedIn.
