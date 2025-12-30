@@ -57,5 +57,5 @@ This repository includes:
 -  README.md
 # 🙌 Author
 Created by Sindiswa Jachin Shongwe
-For inquiries or collaboration, feel free to connect via GitHub or LinkedIn.
+For inquiries or collaboration, connect via GitHub or LinkedIn.
 
